@@ -10,7 +10,7 @@ iRay  | Programming
 
 
 
-local Release = "Beta 8"
+local Release = "Beta 923-BackUp"
 local NotificationDuration = 6.5
 local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
